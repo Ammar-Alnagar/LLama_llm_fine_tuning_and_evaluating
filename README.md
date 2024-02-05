@@ -1,1 +1,1 @@
-# LLama_llm_fine_tuning_and_evaluating
+using llama llm model to evaluate some text dataset and fine tune it 
